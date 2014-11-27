@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /tella.php
+Disallow: /signin.php
+Disallow: /print.php
+Disallow: /login.php
+Disallow: /message.php

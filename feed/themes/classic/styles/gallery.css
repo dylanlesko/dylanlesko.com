@@ -1,0 +1,13 @@
+#paginate{display:block;text-align:left;height:22px;line-height:21px;clear:both;padding-top:3px;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;}
+#paginate a:link, #paginate a:visited{padding:7px;padding-top:2px;padding-bottom:2px;border:1px solid #EBEBEB;margin-right:10px;text-decoration:none;background-color:#F5F5F5;color:#5F88CE;width:22px;font-weight:normal;}
+#paginate a:hover{background-color:#DDEEFF;border:1px solid #BBDDFF;color:#0072BC;}
+#paginate .disabled{padding:7px;padding-top:2px;padding-bottom:2px;border:1px solid #EBEBEB;margin-left:0px;text-decoration:none;background-color:#F5F5F5;color:#555;cursor:default;}
+.gallery{margin:0px auto;font-size:12px;}
+.gallery ul{float:left;margin-right:17px;margin-bottom:3px;}
+.gallery li{width:144px;height:153px;background:#f8f8f8;border:1px solid #ccc;float:left;color:#404040;}
+.gallery img{border:0px}
+.icaption {position: relative;bottom: 14px;left: 0px;margin: 0;display: block;padding: 0px;font-size:11px;color: #fff;cursor:text;background: url(css_pirobox/style_1/caption.png);}
+.fontgallery{width:140px;padding:3px;color:#316796;font-size:12px;}
+ul,li,dl,dt,dd{list-style-type:none;margin:0;padding:0}
+#beforefooter{margin-top:32px;margin-bottom:28px;min-height:90px;max-height:310px;text-align:center;}
+img{border:0}

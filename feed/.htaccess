@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+        RewriteEngine On
+        RewriteRule ^scripts - [L] 
+        RewriteRule (.*)\.html$ news.php?name=$1
+        RewriteRule (.*)\.htm$ categories.php?id=$1
+</IfModule>
+<IfModule mod_security.c>
+SecFilterEngine Off
+SecFilterScanPOST Off
+</IfModule>
+<ifModule mod_expires.c>
+<filesMatch "\.(ico|flv)$">
+Header set Cache-Control "max-age=29030400, public"
+</filesMatch>
+<filesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</filesMatch>
+<filesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=172800, proxy-revalidate"
+</filesMatch>
+<filesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=60, private, proxy-revalidate"
+</filesMatch>
+</ifModule>

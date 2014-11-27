@@ -1,0 +1,8 @@
+.featureu{float:left;width:478px;margin-top:5px; margin-right:5px; height:62px; padding-right:5px; border:1px dotted #ccc}
+.featureu img{float:left; margin:3px;padding:2px; background:#fff; border:1px solid #ccc}
+.ha2{padding-top:4px; font-weight:normal; color:#183A52; font-size:18px}
+#paginate{display:block;text-align:left;height:22px;line-height:21px;clear:both;padding-top:3px;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;}
+#paginate a:link, #paginate a:visited{padding:7px;padding-top:2px;padding-bottom:2px;border:1px solid #EBEBEB;margin-right:10px;text-decoration:none;background-color:#F5F5F5;color:#5F88CE;width:22px;font-weight:normal;}
+#paginate a:hover{background-color:#DDEEFF;border:1px solid #BBDDFF;color:#0072BC;}
+#paginate .disabled{padding:7px;padding-top:2px;padding-bottom:2px;border:1px solid #EBEBEB;margin-left:0px;text-decoration:none;background-color:#F5F5F5;color:#555;cursor:default;}
+#beforefooter{margin-top:32px;margin-bottom:28px;min-height:90px;max-height:310px;text-align:center;}

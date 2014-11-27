@@ -1,0 +1,18 @@
+#leftblock{float:left;width:670px;height:auto;}
+#rightblock{float:right;width:300px;height:auto;}
+#leftblock a img{opacity:0.8}
+#leftblock a img:hover{opacity:1.0}
+#rsshead{border-bottom:1px solid #eee;height:53px;font-size:13px;}
+#incfa{height:15px;font-size:11px;background:#EBEADD;color:#2B2B2B;margin-top:6px;margin-bottom:6px;padding:2px 6px 1px;border:1px solid #DDD;border-radius:2px;}
+#incfb{float:left;width:310px;}
+#incfc{float:left;width:167px;}
+#incfd{float:left;width:82px;}
+#incfe{float:left;width:82px;}
+#floatcyrcle{width:654px;height:19px;margin-top:8px;padding-left:4px;}
+#floatinput{font-size:10px;height:13px;min-width:200px;text-align:center;}
+#floata{float:left;width:276px;font-size:12px;}
+#floata a{color:#3C3C3C}
+#floata img{position:relative;top:3px;right:3px;}
+#floatb{float:left;width:222px;}
+#floatc{float:left;width:70px;}
+#beforefooter{margin-top:32px;margin-bottom:28px;min-height:90px;max-height:310px;text-align:center;}

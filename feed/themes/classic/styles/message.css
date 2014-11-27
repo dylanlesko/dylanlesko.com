@@ -1,0 +1,6 @@
+#effect{width:333px; height:533px; margin-top:5px; margin-left:2px; text-align:center}
+#inputfeed{margin-top:35px}
+#inputimage{}
+#inputsubmit{margin-top:10px; font-family:arial; color:#404040; font-size:14px; font-weight:bold; background-color:#fff; border:2px solid #eee; border-radius:0.3em; -moz-border-radius:0.3em; width:135px}
+#jfeed{font-family:arial; color:#404040; font-size:13px; font-weight:bold;background:url(images/text_signature.png) no-repeat;   background-color:#fff; border:2px solid #eee; border-radius:0.3em; -moz-border-radius:0.3em; line-height:1.7; padding-left:24px; width:335px; margin:1em 0.3em 0.3em 0.15em}
+.sendName{color:#404040}

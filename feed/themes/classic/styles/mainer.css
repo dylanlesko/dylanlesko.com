@@ -1,0 +1,61 @@
+#leftblock{float:left;width:670px;height:auto;}
+#rightblock{float:right;width:300px;height:auto;}
+#description{width:362px; height:242px;margin-left:300px;padding:4px;background:#111;font-size:13px;color:#f8f8f8}
+.evoslider{}
+.evoslider .slideWrapper{position:relative}
+.evoslider dl{position:relative;  width:100%;  list-style:none;  overflow:hidden;  margin:0;  padding:0;  border:0}
+.evoslider dt{position:absolute; top:0; margin:0; padding:0; border:0}
+.evoslider dt:hover{cursor:pointer}
+.evoslider dt.active{cursor:default}
+.evoslider dt .ieFix{position:absolute; top:0; left:0; width:100%; height:100%; margin:0; padding:0; border:0}
+.evoslider dt .ieFix .box{position:absolute; width:100%; height:100%}
+.evoslider dd{position:absolute; top:0; margin:0; padding:0; border:0;  overflow:hidden}
+.evoslider .arrow_next{}
+.evoslider .arrow_next:hover{}
+.evoslider .arrow_prev{}
+.evoslider .arrow_prev:hover{}
+.evoslider .controlNav{position:absolute}
+.evoslider .control_wrapper{position:relative}
+.evoslider .controlNav ul{position:relative; list-style:none}
+.evoslider .controlNav li.bullets{position:relative; float:left; cursor:pointer}
+.evoslider .controlNav li.bullets:hover{cursor:pointer}
+.evoslider .controlNav li.bullets.active{cursor:default}
+.evoslider.default{position:relative; width:660px; height:260px;     margin:0 auto; overflow:visible}
+.evoslider.default dt{height:45px;     color:#4e4e4e;     font-family:Arial,Verdana;     font-size:13px; font-weight:bold; text-transform:uppercase; letter-spacing:1px; line-height:40px; text-align:left; padding-left:20px}
+.evoslider.default dt:hover{cursor:pointer; color:#4e4e4e}
+.evoslider.default dt.active{color:#4e4e4e; cursor:default}
+.evoslider.default dd{background:#fff}
+.evoslider.default .arrow_next{position:absolute; right:10px; top:150px; width:35px; height:34px; background:url('arrows.png') no-repeat -35px 0; cursor:pointer; margin:0; padding:0; border:0; text-decoration:none}
+.evoslider.default .arrow_next:hover{cursor:pointer}
+.evoslider.default .arrow_prev{position:absolute; left:10px; top:150px; width:35px; height:34px; background:url('arrows.png') no-repeat 0 0; cursor:pointer; margin:0; padding:0; border:none; text-decoration:none}
+.evoslider.default .arrow_prev:hover{cursor:pointer}
+.evoslider.default .controlNav{left:5px; bottom:7px; margin:0; border:0}
+.evoslider.default .control_wrapper{width:100%; height:100%; overflow:hidden}
+.evoslider.default .controlNav ul{overflow:visible; margin:0; padding:0; border:0}
+.evoslider.default .controlNav li.bullets{width:20px; height:20px; margin:5px; padding:0; border:none; background:#eee; overflow:visible; font-size:12px; text-align:center; line-height:20px; color:#4e4e4e}
+.evoslider.default .controlNav li.bullets.last{}
+.controlNav li.bullets:hover{background:#4e4e4e; color:#fafafa}
+.evoslider.default .controlNav li.bullets.active{background:#4e4e4e; color:#fafafa}
+.linker{line-height:19px}
+#intro{width:100%;margin-top:10px;margin-bottom:4px;background:#FFF;border:0;color:#1B4570;font-size:14px;font-weight:700}
+#intro a{color:#1B4570;}
+#intro img{margin-left:2px;margin-right:10px;}
+#top_title{width:642px;margin-top:3px; font-family:Arial,sans-serif; font-size:28px;color:#1B4570;font-weight:bold; height:40px; letter-spacing:normal; line-height:40px; background-color:gainsboro; padding:0 14px 0 14px}
+#list{width:667px; padding-left:1px; margin-top:5px;background:#f8f8f8;border:1px solid #eee;}
+#side-a{font-size:12px; float:left; width:163px; height:250px; margin:0; padding:1px; padding-left:2px}
+#side-a img{border:1px solid #ccc; padding:1px}
+.thumb-image-wrapper{height:auto; position:relative}
+.featuredcontainer{width:668px;min-height:120px; height:auto!important}
+.featuredcontainer img{float:left; margin-left:0px; margin-right:10px}
+.lfeat{margin-top:2px; min-height:40px; border-top:1px solid #EEE; padding-top:4px}
+.lfeat img{float:left; margin-top:0; margin-right:10px; background:#fff; border:1px solid #ccc; padding:2px}
+.ha3{padding-top:4px;font-weight:bold;color:#1B4570;}
+.ha3 a{font-weight:bold;color:#1B4570;font-size:14px;}
+.ha4{font-size:24px;color:#1B4570;padding-left:0}
+.ha4 a:hover{color:#08478D;text-decoration:none}
+#ha5{min-height:68px;border-bottom:1px solid #EEE;color:#555}
+#ha5 img{position:relative;top:1px;left:3px;}
+.ha8 a{font:normal 18px arial; color:#fff;padding-left:3px;}
+.ha8 a:hover{color:#eee}
+#icaption{width:300px; height:26px; position:absolute; bottom:10px; left:0px; display:block; font-size:16px; color:white; background:url(css_pirobox/style_1/caption.png)}
+#beforefooter{margin-top:32px;margin-bottom:28px;min-height:90px;max-height:310px;text-align:center;}
